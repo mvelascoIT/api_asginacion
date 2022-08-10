@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\mvelasco\Documents\Training\Python\GeoPandas\API_Asignar\API_Asignar\.\app.publish\</_PublishTargetUrl>
+    <History>True|2022-08-10T14:25:19.7402817Z;True|2022-08-09T17:15:39.9026364-05:00;True|2022-08-09T16:58:32.9691234-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app.py">
+      <publishTime>08/10/2022 08:47:38</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.cpg">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.dbf">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.prj">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.sbn">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.sbx">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.shp">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.shp.xml">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="gestores_bdb/gestores_bdb.shx">
+      <publishTime>08/09/2022 09:37:28</publishTime>
+    </File>
+    <File Include="requirements.txt">
+      <publishTime>08/09/2022 16:26:12</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/09/2022 17:15:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

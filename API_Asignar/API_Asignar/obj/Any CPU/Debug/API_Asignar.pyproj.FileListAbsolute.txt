@@ -1,0 +1,2 @@
+C:\Users\mvelasco\Documents\Training\Python\GeoPandas\API_Asignar\API_Asignar\obj\Any CPU\Debug\API_Asignar.pyproj.SuggestedBindingRedirects.cache
+C:\Users\mvelasco\Documents\Training\Python\GeoPandas\API_Asignar\API_Asignar\obj\Any CPU\Debug\API_Asignar.pyproj.CoreCompileInputs.cache
